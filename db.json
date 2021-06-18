@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Read a book.",
+      "date": "5th May",
+      "time": "2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Listen to music.",
+      "date": "7th June",
+      "time": "7:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Watch a movie.",
+      "date": "16th June",
+      "time": "5:00pm",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "ertertet",
+      "date": "ertertert",
+      "time": "ertertert",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
